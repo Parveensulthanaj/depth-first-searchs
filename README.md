@@ -126,8 +126,8 @@ F H <BR>
 ['0', '1', '2', '3', '4']
 
 ## Execution :
+<img width="1920" height="1080" alt="AI2 1" src="https://github.com/user-attachments/assets/0e7c9008-4d78-4165-b652-d4fae8835e07" />
 
-<img width="1909" height="518" alt="image" src="https://github.com/user-attachments/assets/808bf275-eadd-423b-8169-0ba313bf7816" />
 
 
 <hr>
